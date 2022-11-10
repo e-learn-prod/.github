@@ -1,4 +1,4 @@
-![alt text](https://avatars.githubusercontent.com/u/117890384?s=400&u=15eecca96e096c3e9936454084a3e39a25fa3beb&v=4)
+![Facebook cover - 1](https://user-images.githubusercontent.com/47687479/201152278-05d8c1e1-0b8a-4d95-b887-8b95d9a6c35e.jpg)
 
 # E Learning Productions
 

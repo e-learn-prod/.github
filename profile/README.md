@@ -7,10 +7,10 @@ An organization that focuses on building products that make the learning process
 # Products
 
 ## 1- Attendance
-Is system that was build for universities to help in the process of that attendance from students. the main feature of the system is that it take the attendance through the GPS.
+University attendance system that helps students keep track of their attendance. the main feature of the system is that it take the attendance through the GPS
 
-Attendance is consist of the separated parts, the first part is student phone application that work in Android and IOS, this app helps the students in takeing attendance for the lectures, tracking the schedule of the week and give them reports about their attendance in lectures.
+Students can take attendance for lectures using the student phone application, which works on Android and iOS. This app tracks the week's schedule and gives them reports about their attendance at lectures
+ 
+In the second part, the teacher application is also available for both Android and iOS platforms, which helps teachers to take attendance from students and provide them with reports about the students' attendance in lectures throughout the semester
 
-The second part is the a teacher application which is also for both platforms Android and IOS, the app helps teachers to take the attendance from the students and give the teachers reports about the students attendance in the lectures through out the seamster.
-
-The last part is web platform which is for the departments leaders to create a the schedules for both teachers and students.
+Last but not least is the web platform, where department heads can create teacher and student schedules.
